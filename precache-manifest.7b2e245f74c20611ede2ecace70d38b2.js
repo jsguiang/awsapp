@@ -68,12 +68,12 @@ self.__precacheManifest = [
     "url": "/awsapp/static/media/MyriadPro-Regular.104190e9.eot"
   },
   {
-    "revision": "3f4d7321c1eb58331ed6d70af9b81176",
-    "url": "/awsapp/static/media/MyriadPro-It.3f4d7321.eot"
-  },
-  {
     "revision": "e5515e90e5dbb51353baa5529937b208",
     "url": "/awsapp/static/media/MyriadPro-Regular.e5515e90.ttf"
+  },
+  {
+    "revision": "3f4d7321c1eb58331ed6d70af9b81176",
+    "url": "/awsapp/static/media/MyriadPro-It.3f4d7321.eot"
   },
   {
     "revision": "e3b26fb46b3a06498ef068469b9433ba",
@@ -88,12 +88,12 @@ self.__precacheManifest = [
     "url": "/awsapp/static/media/MyriadPro-Bold.ec64422d.ttf"
   },
   {
-    "revision": "4d90006cbe55d6d54beaf0e70ad2224b",
-    "url": "/awsapp/static/media/MyriadPro-It.4d90006c.svg"
-  },
-  {
     "revision": "a3bbee1754800ec1061fe8de38fdce93",
     "url": "/awsapp/static/media/MyriadPro-Regular.a3bbee17.svg"
+  },
+  {
+    "revision": "4d90006cbe55d6d54beaf0e70ad2224b",
+    "url": "/awsapp/static/media/MyriadPro-It.4d90006c.svg"
   },
   {
     "revision": "4ca76f4b9f548d4b4d72",
