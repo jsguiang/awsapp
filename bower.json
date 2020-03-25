@@ -1,0 +1,27 @@
+{
+  "name": "testproj",
+  "homepage": "https://github.com/jsguiang/testproj",
+  "authors": [
+    "jsguiang"
+  ],
+  "description": "A ReactJS test project",
+  "main": "public/index.html",
+  "keywords": [
+    "material",
+    "design",
+    "material-ui",
+    "material",
+    "design",
+    "google",
+    "twitter"
+  ],
+  "license": "jsguiang",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "private": true
+}
